@@ -4,10 +4,9 @@ html{
   background-color: #191950;
 }
 body{
-
   max-width: 790px;
   padding-top: 150px;
-  margin:auto;
+  margin: auto;
 }
 h1, h2, h3{
   color: DarkGoldenRod;
@@ -48,14 +47,19 @@ header{
   position: fixed;
     top: 0px;
     width: 100%;
+    max-width: 790px;
     border-bottom: 3px solid darkblue;
     box-shadow: 4px 0px 10px lightblue;
 text-align: center;
+margin: auto;
+
 }
-#header-title{
+
+#header-title {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
 #secmat{
   
   align-items: center;
