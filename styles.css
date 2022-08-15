@@ -6,7 +6,8 @@ html{
 body{
 
   max-width: 790px;
-  margin-top: 150px;
+  padding-top: 150px;
+  margin:auto;
 }
 h1, h2, h3{
   color: DarkGoldenRod;
